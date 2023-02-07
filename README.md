@@ -64,8 +64,8 @@
   </a>
   <a href="https://wa.me/0096181338427"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
 <br>
-<h3>
-   <a href="https://g.dev/rachad"><img src="https://img.shields.io/static/v1?message=Dev profile&logo=google&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
+<h3>My Profile on:</h3>
+   <a href="https://g.dev/rachad"><img src="https://img.shields.io/static/v1?message=developer&logo=google&label=&color=darkgray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/d668a9cb-7271-4572-8f0f-43c8c3d3edf9"> <img src="https://aws.qwiklabs.com/qwiklabs_logo_994x187.png" height="35" alt="whatsapp logo"  /></a>
 </div>
 
