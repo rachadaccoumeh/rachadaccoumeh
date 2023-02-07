@@ -6,6 +6,8 @@
 
 <h2 align="centre">Hi 👋! My name is Rachad and I'm a Android and Web Developer from Lebanon.</h2>
 
+<P><a href="https://developers.google.com/profile/u/rachad"> Google Developper Profile.</a></p>
+
 ###
 
 <div align="center">
@@ -60,7 +62,11 @@
   <a href="https://www.linkedin.com/in/rachad-accoumeh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://wa.me/0096181338427"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
+<br>
+<h3>
+   <a href="https://g.dev/rachad"><img src="https://img.shields.io/static/v1?message=Dev profile&logo=google&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/d668a9cb-7271-4572-8f0f-43c8c3d3edf9"> <img src="https://aws.qwiklabs.com/qwiklabs_logo_994x187.png" height="35" alt="whatsapp logo"  /></a>
 </div>
 
 ###
@@ -74,7 +80,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/rachadaccoumeh/rachadaccoumeh/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
