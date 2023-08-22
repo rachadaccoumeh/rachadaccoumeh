@@ -4,7 +4,7 @@
 </div>
 <div align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachadaccoumeh&theme=dracula" alt="rachadaccoumeh" /></div>
 
-<h2 align="centre">Hi 👋! My name is Rachad and I'm a Android and Web Developer from Lebanon.</h2>
+<h2 align="centre">Hi 👋! My name is Rachad and I'm a Mobile and Web Developer from Lebanon.</h2>
 
 <P><a href="https://developers.google.com/profile/u/rachad"> Google Developper Profile.</a></p>
 
